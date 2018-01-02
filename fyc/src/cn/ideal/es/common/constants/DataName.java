@@ -6,7 +6,7 @@ public enum DataName{
 
 	//bossUsePageShowException,	//BOSS是否使用页面显示来替代抛出异常		
 	//siteDomain,			
-	appToken,				//APP令牌
+	appToken,				//APP令牌23242342
 
 	autoRefund,				//是否自动退款
 	autoWithdraw,				//是否自动提现
